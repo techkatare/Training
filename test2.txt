@@ -1,2 +1,4 @@
 Another test file
 updated.
+
+updated in second branch
